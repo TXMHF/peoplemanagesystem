@@ -77,6 +77,7 @@ td {text-align: center;}
 				window.location = "action-del.php?id="+id;
 			}
 		}
+		//iugiugiugugiguoiu
 	</script>
 </body>
-</html>
+</html>1
