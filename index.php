@@ -5,6 +5,7 @@
 	<title>新闻后台管理系统</title>
 </head>
 <style type="text/css">
+	//asdaskldjalksjdakljsdjklajskdjakljsdkla
 .wrapper {width: 1000px;margin: 20px auto;}
 h2 {text-align: center;}
 .add {margin-bottom: 20px;}
