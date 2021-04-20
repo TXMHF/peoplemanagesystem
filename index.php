@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>,.,.,
 	<meta charset="UTF-8">
 	<title>新闻后台管理系统</title>
 </head>
